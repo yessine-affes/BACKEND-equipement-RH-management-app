@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <equipment>
+        <id>1</id>
+        <name>Prineeter</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo>dradra.jpg</photo>
+        <maintenanceSchedule>2024-12-14T00:00:00.000Z</maintenanceSchedule>
+    </equipment>
+    
+    <equipment>
+        <id>3</id>
+        <name>Scanner</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Monthly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>4</id>
+        <name>Laptop</name>
+        <status>in_use</status>
+        <type>Hardware</type>
+        <availability>0</availability>
+        <photo/>
+        <maintenanceSchedule>Yearly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>5</id>
+        <name>Desktop PC</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Monthly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>6</id>
+        <name>Conference Speaker</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Biannually</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>7</id>
+        <name>Router</name>
+        <status>in_use</status>
+        <type>Hardware</type>
+        <availability>0</availability>
+        <photo/>
+        <maintenanceSchedule>Quarterly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>8</id>
+        <name>Switch</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Yearly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>9</id>
+        <name>External Hard Drive</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Monthly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>10</id>
+        <name>Webcam</name>
+        <status>in_use</status>
+        <type>Hardware</type>
+        <availability>0</availability>
+        <photo/>
+        <maintenanceSchedule>Every 6 Months</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>11</id>
+        <name>Microphone</name>
+        <status>available</status>
+        <type>Hardware</type>
+        <availability>1</availability>
+        <photo/>
+        <maintenanceSchedule>Monthly</maintenanceSchedule>
+    </equipment>
+    <equipment>
+        <id>12</id>
+        <name>Smart TV</name>
+        <status>in_use</status>
+        <type>Hardware</type>
+        <availability>0</availability>
+        <photo/>
+        <maintenanceSchedule>Biannually</maintenanceSchedule>
+    </equipment>
+<equipment><name>Johnee Doeee</name><status>Maintenance</status><type>etazet</type><availability>1</availability><photo/><maintenanceSchedule>2024-12-25T00:00:00.000Z</maintenanceSchedule><id>13</id></equipment><equipment><name>Printeree</name><status>Maintenance</status><type>Hardware</type><availability>1</availability><photo>dradra.jpg</photo><maintenanceSchedule>2024-12-16T00:00:00.000Z</maintenanceSchedule><id>14</id></equipment><equipment><name>new</name><status>Maintenance</status><type>Hardware</type><availability>1</availability><photo>dradra.jpg</photo><maintenanceSchedule/><id>15</id></equipment><equipment><name>John Doe</name><status>Maintenance</status><type>test</type><availability>1</availability><photo/><maintenanceSchedule/><id>16</id></equipment></data>

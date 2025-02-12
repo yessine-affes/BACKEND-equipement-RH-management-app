@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    
+    
+    <employee>
+        <id>3</id>
+        <first_name>aa</first_name>
+        <last_name>ss</last_name>
+        <email>ascil.chtioui@ieee.org</email>
+        <admin_id>4</admin_id>
+        <availability>0</availability>
+        <photo>img.jpg</photo>
+        <speciality>Mining</speciality>
+        <score>40</score>
+    </employee>
+    
+    <employee>
+        <id>5</id>
+        <first_name>bbb</first_name>
+        <last_name>bbb</last_name>
+        <email>yy@gmail</email>
+        <admin_id>4</admin_id>
+        <availability>1</availability>
+        <photo>img.jpg</photo>
+        <speciality>Processing</speciality>
+        <score>40</score>
+    </employee>
+    <employee>
+        <id>6</id>
+        <first_name>Emily</first_name>
+        <last_name>Clark</last_name>
+        <email>emily.clark@example.com</email>
+        <admin_id>2</admin_id>
+        <availability>1</availability>
+        <photo>emily.jpg</photo>
+        <speciality>Developer</speciality>
+        <score>75</score>
+    </employee>
+    <employee>
+        <id>7</id>
+        <first_name>Michael</first_name>
+        <last_name>Brown</last_name>
+        <email>michael.brown@example.com</email>
+        <admin_id>2</admin_id>
+        <availability>1</availability>
+        <photo>michael.jpg</photo>
+        <speciality>Testing</speciality>
+        <score>65</score>
+    </employee>
+    <employee>
+        <id>8</id>
+        <first_name>Sara</first_name>
+        <last_name>Williams</last_name>
+        <email>sara.williams@example.com</email>
+        <admin_id>3</admin_id>
+        <availability>0</availability>
+        <photo/>
+        <speciality>Design</speciality>
+        <score>55</score>
+    </employee>
+    <employee>
+        <id>9</id>
+        <first_name>Robert</first_name>
+        <last_name>Jones</last_name>
+        <email>robert.jones@example.com</email>
+        <admin_id>3</admin_id>
+        <availability>1</availability>
+        <photo>robert.jpg</photo>
+        <speciality>Processing</speciality>
+        <score>95</score>
+    </employee>
+    <employee>
+        <id>10</id>
+        <first_name>Linda</first_name>
+        <last_name>Taylor</last_name>
+        <email>linda.taylor@example.com</email>
+        <admin_id>4</admin_id>
+        <availability>1</availability>
+        <photo>linda.jpg</photo>
+        <speciality>Developer</speciality>
+        <score>80</score>
+    </employee>
+<employee><first_name>Johnn</first_name><last_name>Doee</last_name><email>john.doeee@example.com</email><admin_id>1</admin_id><availability>1</availability><photo/><speciality>Processing</speciality><score>90</score><id>11</id></employee>
+<employee><first_name>Johnee</first_name><last_name>Doeee</last_name><email>joheen.deeoe@exameple.com</email><admin_id>3</admin_id><availability>1</availability><photo>dradra.jpg</photo><speciality>QualityControl</speciality><score>90</score><id>12</id></employee>
+
+<employee><first_name>anis</first_name><last_name>jdidi</last_name><email>anis.jedidi@isims.usf.tn</email><admin_id>4</admin_id><availability>1</availability><speciality>Maintenance</speciality><score>100</score><id>13</id></employee><employee><first_name>Faiza</first_name><last_name>Ghozzi</last_name><email>Faiza.Ghozzi@isims.usf.tn</email><admin_id>3</admin_id><availability>1</availability><speciality>Processing</speciality><score>55</score><id>14</id></employee><employee><first_name>Faiza</first_name><last_name>Ghozzi</last_name><email>aegzgeza@gezahez.cpm</email><admin_id>3</admin_id><availability>1</availability><speciality>Maintenance</speciality><score>22</score><id>15</id></employee><employee><first_name>erha</first_name><last_name>ezahez</last_name><email>ezahezah@zaehezh.com</email><admin_id>3</admin_id><availability>1</availability><speciality>QualityControl</speciality><id>16</id></employee><employee><first_name>khbjh</first_name><last_name>fytgv</last_name><email>jgu@gmail</email><admin_id>4</admin_id><availability>1</availability><photo>dradra.jpg</photo><speciality>Processing</speciality><score>88</score><id>17</id></employee></data>

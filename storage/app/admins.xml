@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+
+<admin>
+<username>JohnDoe</username>
+<email>john.doe@example.com</email>
+<password>$2y$10$dBGOPi4W9kNuYaOxd0Gapex4lFfu2e9fsqnhpiTGmJkjqduFFYuwG</password>
+<id>2</id>
+</admin>
+<admin><username>JohnDoe</username><email>john.doe@example.com</email><password>$2y$10$8nxspZiiMKu63jP2ojt7bOSmeGnPUsIE1WBNnlzOl2jeMduDGBQYu</password><id>3</id></admin><admin><username>JohnDoe</username><email>john.doe@exameple.com</email><password>$2y$10$WlQIyC9OOSc.gZeEFpqv8e9h9Xz12jGI68lEAmueOf92A5KPXXVem</password><id>4</id></admin><admin><username>JohnDoe</username><email>john.doe@example.com</email><password>$2y$10$oUDIZPLVxbEyBWCfnIscoeAj544f4qbKZfig37R0qby75xckpmbtS</password><id>5</id></admin></data>

@@ -1,0 +1,14 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="equipment">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string" />
+        <xs:element name="status" type="xs:string" />
+        <xs:element name="type" type="xs:string" />
+        <xs:element name="availability" type="xs:boolean" />
+        <xs:element name="photo" type="xs:string" minOccurs="0" />
+        <xs:element name="maintenanceSchedule" type="xs:string" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

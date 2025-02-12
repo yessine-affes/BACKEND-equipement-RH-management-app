@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    
+    <report>
+        <id>2</id>
+        <subject>Team Meeting</subject>
+        <content>Discuss quarterly results and next steps with the team.</content>
+        <employee_id>3</employee_id>
+        <photo>photo1.jpg</photo>
+    </report>
+    
+    <report>
+        <id>4</id>
+        <subject>Code Review</subject>
+        <content>Review the submitted code for the new feature implementation.</content>
+        <employee_id>4</employee_id>
+        <photo>photo4.jpg</photo>
+    </report>
+    <report>
+        <id>5</id>
+        <subject>Training Session</subject>
+        <content>Conduct a training session on the updated software tools.</content>
+        <employee_id>5</employee_id>
+        <photo>photo5.jpg</photo>
+    </report>
+    <report>
+        <id>6</id>
+        <subject>Performance Evaluation</subject>
+        <content>Evaluate the performance of team members for the last quarter.</content>
+        <employee_id>6</employee_id>
+        <photo>photo6.jpg</photo>
+    </report>
+    <report>
+        <id>7</id>
+        <subject>Market Research</subject>
+        <content>Analyze market trends and provide a report.</content>
+        <employee_id>7</employee_id>
+        <photo>photo7.jpg</photo>
+    </report>
+    <report>
+        <id>8</id>
+        <subject>System Upgrade</subject>
+        <content>Upgrade the server and test the functionality of all systems.</content>
+        <employee_id>8</employee_id>
+        <photo>photo8.jpg</photo>
+    </report>
+    <report>
+        <id>9</id>
+        <subject>Budget Analysis</subject>
+        <content>Review and analyze the departmental budget for the next year.</content>
+        <employee_id>9</employee_id>
+        <photo>photo9.jpg</photo>
+    </report>
+    <report>
+        <id>10</id>
+        <subject>Documentation Update</subject>
+        <content>Update all technical and user documentation for the latest release.</content>
+        <employee_id>10</employee_id>
+        <photo>photo10.jpg</photo>
+    </report>
+</data>

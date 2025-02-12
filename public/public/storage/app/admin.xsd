@@ -1,0 +1,11 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="admin">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="username" type="xs:string" />
+        <xs:element name="email" type="xs:string" />
+        <xs:element name="password" type="xs:string" minLength="8" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
